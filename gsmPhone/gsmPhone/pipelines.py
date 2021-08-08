@@ -14,7 +14,7 @@ from itemadapter import ItemAdapter
 class GsmphonePipeline:
     def process_item(self, item, spider):
         load_dict = []
-        with open('labels.json', 'r') as f:
+        with open('labels.json', 'r', encoding='utf-8') as f:
             load_dict = json.load(f)
         # 将新传入的dict对象追加至list中
         load_dict.append(dict(item))

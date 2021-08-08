@@ -6,7 +6,7 @@ from gsmPhone.items import GsmphoneItem
 class GsmarenaSpider(scrapy.Spider):
     name = 'gsmarena'
     allowed_domains = ['www.gsmarena.com']
-    start_urls = ['https://www.gsmarena.com/huawei-phones-58.php']
+    start_urls = ['https://www.gsmarena.com/xiaomi-phones-80.php']
 
     def parse(self, response, **kwargs):
 
