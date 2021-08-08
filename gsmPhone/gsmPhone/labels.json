@@ -1,0 +1,2153 @@
+[
+  {
+    "name": "Huawei P50",
+    "chip_name": "Snapdragon 888 4G",
+    "model": null,
+    "display_resolution": "1224 x 2700 pixels (~458 ppi density)",
+    "cpu": "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+    "gpu": "Adreno 660",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50.jpg"
+  },
+  {
+    "name": "Huawei P50 Pro",
+    "chip_name": "Kirin 9000",
+    "model": "JAD-AL50",
+    "display_resolution": "1228 x 2700 pixels (~450 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50-pro.jpg"
+  },
+  {
+    "name": "Huawei Children's Watch 4X",
+    "chip_name": null,
+    "model": "NIK-AL00",
+    "display_resolution": "320 x 360 pixels (~342 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-childrens-watch-4x.jpg"
+  },
+  {
+    "name": "Huawei Enjoy Tablet 2",
+    "chip_name": "Kirin 710A",
+    "model": "AGS3-W00D",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-tablet2.jpg"
+  },
+  {
+    "name": "Huawei MatePad T 10s",
+    "chip_name": "Kirin 710A",
+    "model": "AGS3-L09, AGS3-W09",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-tablet2.jpg"
+  },
+  {
+    "name": "Huawei MatePad 10.8",
+    "chip_name": "Kirin 990",
+    "model": "SCMR-W09, SCMR-AL00",
+    "display_resolution": "1600 x 2560 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP16",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-108.jpg"
+  },
+  {
+    "name": "Huawei Watch Fit",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "280 x 456 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-fit.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 5G",
+    "chip_name": "Dimensity 720 5G",
+    "model": "WKG-AN00",
+    "display_resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 Plus 5G",
+    "chip_name": "Dimensity 720 5G",
+    "model": "FRL-AN00a",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~397 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20-plus.jpg"
+  },
+  {
+    "name": "Huawei Y9a",
+    "chip_name": "Helio G80",
+    "model": "FRL-22, FRL-23, FRL-L22",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~397 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "gpu": "Mali-G52 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y9a.jpg"
+  },
+  {
+    "name": "Huawei Watch GT 2 Pro",
+    "chip_name": "Kirin A1",
+    "model": "VID-B19",
+    "display_resolution": "454 x 454 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-gt2-pro.jpg"
+  },
+  {
+    "name": "Huawei MatePad 5G",
+    "chip_name": "Kirin 820 5G",
+    "model": "BAH3-AN10",
+    "display_resolution": "1200 x 2000 pixels, 5:3 ratio (~224 ppi density)",
+    "cpu": "Octa-core (1x2.36 GHz Cortex-A76 & 3x2.22 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G57 (6-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-5g.jpg"
+  },
+  {
+    "name": "Huawei P smart 2021",
+    "chip_name": "Kirin 710A",
+    "model": "PPA-LX2",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2021.jpg"
+  },
+  {
+    "name": "Huawei Y7a",
+    "chip_name": "Kirin 710A",
+    "model": null,
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2021.jpg"
+  },
+  {
+    "name": "Huawei nova 7 SE 5G Youth",
+    "chip_name": "Dimensity 800U 5G",
+    "model": null,
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+    "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC3",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p40-lite-5g.jpg"
+  },
+  {
+    "name": "Huawei Mate 30E Pro 5G",
+    "chip_name": "Kirin 990E 5G",
+    "model": "LIO-AN00m",
+    "display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate30-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Watch GT 2 Porsche Design",
+    "chip_name": null,
+    "model": "VID-B19",
+    "display_resolution": "454 x 454 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-gt2-porshe1.jpg"
+  },
+  {
+    "name": "Huawei Mate 40",
+    "chip_name": "Kirin 9000E 5G",
+    "model": "OCE-AN10",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP22",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOH-NX9, NOH-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro+",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOP-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro-plus.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 RS Porsche Design",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOP-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-rs.jpg"
+  },
+  {
+    "name": "Huawei nova 8 SE",
+    "chip_name": "Dimensity 720 5G",
+    "model": "JSC-AN00",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~403 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) - standard model",
+    "gpu": "Mali-G57 MC3",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-se.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 SE",
+    "chip_name": "Kirin 710A",
+    "model": "PPA-AL20",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20-se.jpg"
+  },
+  {
+    "name": "Huawei nova 8 5G",
+    "chip_name": "Kirin 985 5G",
+    "model": "ANG-AN00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-5g.jpg"
+  },
+  {
+    "name": "Huawei nova 8 Pro 5G",
+    "chip_name": "Kirin 985 5G",
+    "model": "BRQ-AN00",
+    "display_resolution": "1236 x 2676 pixels, 19.5:9 ratio (~439 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Mate X2",
+    "chip_name": "Kirin 9000 5G",
+    "model": "TET-AN00",
+    "display_resolution": "2200 x 2480 pixels (~413 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x2-new.jpg"
+  },
+  {
+    "name": "Huawei P40 4G",
+    "chip_name": "Kirin 990",
+    "model": "ANA-AL00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP16",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p40-4g.jpg"
+  },
+  {
+    "name": "Huawei Mate 40E",
+    "chip_name": "Kirin 990E 5G",
+    "model": "OCE-AN50",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Watch Fit Elegant",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "280 x 456 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-fit-elegant.jpg"
+  },
+  {
+    "name": "Huawei nova 8 Pro 4G",
+    "chip_name": "Kirin 985 5G",
+    "model": "BRQ-AN00",
+    "display_resolution": "1236 x 2676 pixels, 19.5:9 ratio (~439 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Watch 3",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "466 x 466 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-3.jpg"
+  },
+  {
+    "name": "Huawei Watch 3 Pro",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "466 x 466 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-3-pro.jpg"
+  },
+  {
+    "name": "Huawei MatePad 11 (2021)",
+    "chip_name": "Snapdragon 865 5G",
+    "model": null,
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~276 ppi density)",
+    "cpu": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)",
+    "gpu": "Adreno 650",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-11-2021.jpg"
+  },
+  {
+    "name": "Huawei MatePad Pro 10.8 (2021)",
+    "chip_name": "Snapdragon 870 5G",
+    "model": "MRR-W29",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
+    "gpu": "Adreno 650",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-108-2021-new.jpg"
+  },
+  {
+    "name": "Huawei MatePad Pro 12.6 (2021)",
+    "chip_name": "Kirin 9000E 5G",
+    "model": "WGR-W09, WGR-W19, WGR-AN19",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~240 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP22 - Wi-Fi model",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-126-2021-new.jpg"
+  },
+  {
+    "name": "Huawei Mate X2 4G",
+    "chip_name": "Kirin 9000",
+    "model": "TET-AL00",
+    "display_resolution": "2200 x 2480 pixels (~414 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x2-new.jpg"
+  },
+  {
+    "name": "Huawei Mate 40E 4G",
+    "chip_name": "Kirin 990E",
+    "model": "OCE-AL50",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro 4G",
+    "chip_name": "Kirin 9000",
+    "model": "NOH-AL00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro.jpg"
+  },
+  {
+    "name": "Huawei nova 8i",
+    "chip_name": "Snapdragon 662",
+    "model": null,
+    "display_resolution": "1080 x 2376 pixels (~391 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+    "gpu": "Adreno 610",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8i.jpg"
+  },
+  {
+    "name": "Huawei nova 8 SE Youth",
+    "chip_name": "Kirin 710A",
+    "model": "CHL-AL60",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~399 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-se-youth.jpg"
+  },
+  {
+    "name": "Huawei P50",
+    "chip_name": "Snapdragon 888 4G",
+    "model": null,
+    "display_resolution": "1224 x 2700 pixels (~458 ppi density)",
+    "cpu": "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+    "gpu": "Adreno 660",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50.jpg"
+  },
+  {
+    "name": "Huawei P50 Pro",
+    "chip_name": "Kirin 9000",
+    "model": "JAD-AL50",
+    "display_resolution": "1228 x 2700 pixels (~450 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50-pro.jpg"
+  },
+  {
+    "name": "Huawei T211",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei U8650 Sonic",
+    "chip_name": null,
+    "model": "u8650-1, U8650NFC-1",
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8650-sonic.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 7 Lite",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "1.2 GHz Cortex-A8",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-7-lite.jpg"
+  },
+  {
+    "name": "Huawei Ascend G330",
+    "chip_name": "Snapdragon S4 Play",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.0 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g330.jpg"
+  },
+  {
+    "name": "Huawei Ascend G600",
+    "chip_name": null,
+    "model": "U8950-1",
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+    "cpu": "Dual-core 1.2 GHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g600.jpg"
+  },
+  {
+    "name": "Huawei Fusion 2 U8665",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-att-fusion-2.jpg"
+  },
+  {
+    "name": "Huawei Ascend P1 LTE",
+    "chip_name": "Snapdragon S4 Plus",
+    "model": "U9202L, U9202L-1, U9202L-2, U9202L-3, U9202L-4",
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+    "cpu": "Dual-core 1.5 GHz Krait",
+    "gpu": "Adreno 225",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p1-lte.jpg"
+  },
+  {
+    "name": "Huawei Summit",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "600 MHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-summit.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 10 Link",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "1280 x 800 pixels, 16:10 ratio (~149 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad-101-Link.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y201 Pro",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y201-pro.jpg"
+  },
+  {
+    "name": "Huawei Ascend G500",
+    "chip_name": "MT6575",
+    "model": null,
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+    "cpu": "1.0 GHz Cortex-A9",
+    "gpu": "PowerVR SGX531",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g500-shine-pro-u8836d.jpg"
+  },
+  {
+    "name": "Huawei Ascend G510",
+    "chip_name": "Snapdragon S4 Play",
+    "model": "G510-0200",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g510-u8951.jpg"
+  },
+  {
+    "name": "Huawei Ascend D2",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-d2-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend Mate",
+    "chip_name": "Huawei K3V2",
+    "model": "MT1-U06",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~241 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-mate-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend G312",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "1.4 GHz",
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei Ascend W1",
+    "chip_name": "Snapdragon 400",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Krait",
+    "gpu": "Adreno 305",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-w1.jpg"
+  },
+  {
+    "name": "Huawei Ascend G350",
+    "chip_name": "Snapdragon S4 Play",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.0 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g350.jpg"
+  },
+  {
+    "name": "Huawei Ascend G526",
+    "chip_name": null,
+    "model": "G526-L11, G526-L22, G526-L33",
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+    "cpu": "Quad-core 1.2 GHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g526-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend G615",
+    "chip_name": "Huawei K3V2",
+    "model": "G615-U10",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~330 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/ascend-g615.jpg"
+  },
+  {
+    "name": "Huawei Ascend P2",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p2.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y210D",
+    "chip_name": "Snapdragon S1",
+    "model": "Y210-0251, Y210-0200",
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "1.0 GHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y210d.jpg"
+  },
+  {
+    "name": "Huawei Premia 4G M931",
+    "chip_name": "Snapdragon S4 Plus",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.5 GHz Krait",
+    "gpu": "Adreno 225",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-premia-4g.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y300",
+    "chip_name": "Snapdragon S4 Play",
+    "model": "Y300-0100, Y300-0151",
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.0 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y300.jpg"
+  },
+  {
+    "name": "Huawei Ascend P6",
+    "chip_name": "Huawei K3V2",
+    "model": "P6-U06, P6",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p6-ofic.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 7 Vogue",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-7-vogue.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 7 Youth",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "Dual-core 1.6 GHz Cortex-A9",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-7-youth.jpg"
+  },
+  {
+    "name": "Huawei Ascend G525",
+    "chip_name": "Snapdragon S4 Play",
+    "model": "G525-U00",
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g525.jpg"
+  },
+  {
+    "name": "Huawei U8687 Cronos",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "1.0 GHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": null
+  },
+  {
+    "name": "Huawei G610s",
+    "chip_name": "MT6589",
+    "model": "G610-U00, G610-U20",
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A7",
+    "gpu": "PowerVR SGX544",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g610s.jpg"
+  },
+  {
+    "name": "Huawei Ascend G700",
+    "chip_name": "MT6589",
+    "model": "G700-U10, G700-U20",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A7",
+    "gpu": "PowerVR SGX544",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g700.jpg"
+  },
+  {
+    "name": "Huawei G3621L",
+    "chip_name": "MT6250M",
+    "model": null,
+    "display_resolution": "128 x 160 pixels (~114 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g3621.jpg"
+  },
+  {
+    "name": "Huawei G6153",
+    "chip_name": "MT6250",
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": "260 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6153.jpg"
+  },
+  {
+    "name": "Huawei Ascend W2",
+    "chip_name": "Snapdragon 400",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)",
+    "cpu": "Dual-core 1.4 GHz Krait",
+    "gpu": "Adreno 305",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-Ascend-W2.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y511",
+    "chip_name": "MT6572",
+    "model": "Y511-U30, Y511-U10",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)",
+    "cpu": "Dual-core 1.3 GHz Cortex-A7",
+    "gpu": "Mali-400",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y511.jpg"
+  },
+  {
+    "name": "Huawei Ascend G740",
+    "chip_name": "Snapdragon 400",
+    "model": "G740-L00",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Krait 200",
+    "gpu": "Adreno 305",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g740.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y220",
+    "chip_name": "MT6572M",
+    "model": "Y220-U10, Y220-U00",
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "Dual-core 1.0 GHz Cortex-A7",
+    "gpu": "Mali-400",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y220.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y320",
+    "chip_name": "MT6572",
+    "model": "Y320-U30",
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.3 GHz Cortex-A7",
+    "gpu": "Mali-400",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y320.jpg"
+  },
+  {
+    "name": "Huawei Ascend Mate2 4G",
+    "chip_name": "Snapdragon 400",
+    "model": "MT2-L00, MT2-L02, MT2-L03, MT2L03",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~241 ppi density)",
+    "cpu": "Quad-core 1.6 GHz Cortex-A7",
+    "gpu": "Adreno 305",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-mate2.jpg"
+  },
+  {
+    "name": "Huawei Ascend P6 S",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+    "cpu": "Quad-core 1.6 GHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p6s.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 7 Youth2",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A7",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-7-youth2.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y530",
+    "chip_name": "Snapdragon 200",
+    "model": "Y530-U00, Y530-U051",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Cortex-A7",
+    "gpu": "Adreno 302",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y530.jpg"
+  },
+  {
+    "name": "Huawei G6620",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6620.jpg"
+  },
+  {
+    "name": "Huawei G5500",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~141 ppi density)",
+    "cpu": "MT 6253 chipset",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g5500.jpg"
+  },
+  {
+    "name": "Huawei U5510",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": "650 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u5510.jpg"
+  },
+  {
+    "name": "Huawei G7206",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": "MT 6253 chipset",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g7206.jpg"
+  },
+  {
+    "name": "Huawei U8800 Pro",
+    "chip_name": "Snapdragon S2",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)",
+    "cpu": "1.0 GHz Scorpion",
+    "gpu": "Adreno 205",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8800-pro.jpg"
+  },
+  {
+    "name": "Huawei Ascend II",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "600 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-II.jpg"
+  },
+  {
+    "name": "Huawei U8850 Vision",
+    "chip_name": "Snapdragon S2",
+    "model": "u8850-1",
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+    "cpu": "1.0 GHz Scorpion",
+    "gpu": "Adreno 205",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-vision-ofic.jpg"
+  },
+  {
+    "name": "Huawei Pillar",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pillar.jpg"
+  },
+  {
+    "name": "Huawei Impulse 4G",
+    "chip_name": "MSM7230",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)",
+    "cpu": "800 MHz Scorpion",
+    "gpu": "Adreno 205",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-impulse-4g.jpg"
+  },
+  {
+    "name": "Huawei U8350 Boulder",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~154 ppi density)",
+    "cpu": "528 MHz ARM 11",
+    "gpu": "No",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-boulder-u8350.jpg"
+  },
+  {
+    "name": "Huawei T8300",
+    "chip_name": "Marvell 88sv331",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+    "cpu": "800 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-t8300.jpg"
+  },
+  {
+    "name": "Huawei U8520 Duplex",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+    "cpu": "600 MHz ARM 11",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8520.jpg"
+  },
+  {
+    "name": "Huawei D51 Discovery",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-d51-discovery.jpg"
+  },
+  {
+    "name": "Huawei MediaPad S7-301w",
+    "chip_name": "Snapdragon S3",
+    "model": null,
+    "display_resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Scorpion",
+    "gpu": "Adreno 220",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad.jpg"
+  },
+  {
+    "name": "Huawei MediaPad",
+    "chip_name": "Snapdragon S3",
+    "model": "S7-301u, S7-302u, S7-303u",
+    "display_resolution": "800 x 1280 pixels, 16:10 ratio (~216 ppi density)",
+    "cpu": "Dual-core 1.2 GHz Scorpion",
+    "gpu": "Adreno 220",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad.jpg"
+  },
+  {
+    "name": "Huawei G7005",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g7005.jpg"
+  },
+  {
+    "name": "Huawei G7300",
+    "chip_name": "MT6236",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "312 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g7300.jpg"
+  },
+  {
+    "name": "Huawei M886 Mercury",
+    "chip_name": "Snapdragon S2",
+    "model": null,
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)",
+    "cpu": "1.4 GHz Scorpion",
+    "gpu": "Adreno",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-m886-mercury.jpg"
+  },
+  {
+    "name": "Huawei Ascend P1s",
+    "chip_name": "TI OMAP 4460",
+    "model": null,
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+    "cpu": "Dual-core 1.5 GHz Cortex-A9",
+    "gpu": "PowerVR SGX540",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p1-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend D quad",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~326 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-d-quad-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend D quad XL",
+    "chip_name": "Huawei K3V2",
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~326 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A9",
+    "gpu": "Vivante GC4000",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-d-quad-xl-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend D1",
+    "chip_name": "TI OMAP 4460",
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~326 ppi density)",
+    "cpu": "Dual-core 1.5 GHz",
+    "gpu": "PowerVR SGX540",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-d1.jpg"
+  },
+  {
+    "name": "Huawei Ascend D1 XL U9500E",
+    "chip_name": "TI OMAP 4460",
+    "model": null,
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~326 ppi density)",
+    "cpu": "Dual-core 1.5 GHz",
+    "gpu": "PowerVR SGX540",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-d1-xl-u9500e.jpg"
+  },
+  {
+    "name": "Huawei MediaPad 10 FHD",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "1920 x 1200 pixels, 16:10 ratio (~226 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A9",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei_mediapad10_fhd.jpg"
+  },
+  {
+    "name": "Huawei Fusion U8652",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/att-fusion.jpg"
+  },
+  {
+    "name": "Huawei G6609",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6609.jpg"
+  },
+  {
+    "name": "Huawei G5520",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g5520.jpg"
+  },
+  {
+    "name": "Huawei Activa 4G",
+    "chip_name": "MSM7627T",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-activa-4g.jpg"
+  },
+  {
+    "name": "Huawei G5000",
+    "chip_name": "MT6252",
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~141 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g5000.jpg"
+  },
+  {
+    "name": "Huawei G6310",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": "MT6235",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6310.jpg"
+  },
+  {
+    "name": "Huawei G6800",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6800.jpg"
+  },
+  {
+    "name": "Huawei Ascend Q M5660",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+    "cpu": "800 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-q.jpg"
+  },
+  {
+    "name": "Huawei Ascend P1",
+    "chip_name": "TI OMAP 4460",
+    "model": null,
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+    "cpu": "Dual-core 1.5 GHz Cortex-A9",
+    "gpu": "PowerVR SGX540",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p1-new.jpg"
+  },
+  {
+    "name": "Huawei G6005",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 160 pixels",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6005.jpg"
+  },
+  {
+    "name": "Huawei Ascend P1 XL U9200E",
+    "chip_name": "TI OMAP 4460",
+    "model": null,
+    "display_resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+    "cpu": "Dual-core 1.5 GHz Cortex-A9",
+    "gpu": "PowerVR SGX540",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-p1-new.jpg"
+  },
+  {
+    "name": "Huawei Ascend G330D U8825D",
+    "chip_name": "Snapdragon S4 Play",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+    "cpu": "Dual-core 1.0 GHz Cortex-A5",
+    "gpu": "Adreno 203",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-g300d-u881d5.jpg"
+  },
+  {
+    "name": "Huawei Ascend Y200",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y200.jpg"
+  },
+  {
+    "name": "Huawei T261L",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei Ascend Y100",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": "800 MHz Cortex-A5",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ascend-y100.jpg"
+  },
+  {
+    "name": "Huawei T208",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei T158",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "68 x 96 pixels (~84 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei T156",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "68 x 96 pixels (~84 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei U1000",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei U1100",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~157 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u1100.jpg"
+  },
+  {
+    "name": "Huawei U1310",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei U3300",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~141 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u3300.jpg"
+  },
+  {
+    "name": "Huawei U120",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~157 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u120.jpg"
+  },
+  {
+    "name": "Huawei U121",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "176 x 220 pixels (~157 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u121.jpg"
+  },
+  {
+    "name": "Huawei U7310",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u7310-new.jpg"
+  },
+  {
+    "name": "Huawei U9150",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei G6600 Passport",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6600-passport.jpg"
+  },
+  {
+    "name": "Huawei U1250",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u1250.jpg"
+  },
+  {
+    "name": "Huawei U9130 Compass",
+    "chip_name": "QSC6270",
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u9130-compass.jpg"
+  },
+  {
+    "name": "Huawei U1270",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u1270.jpg"
+  },
+  {
+    "name": "Huawei U7510",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u7510.jpg"
+  },
+  {
+    "name": "Huawei U8220",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8220.jpg"
+  },
+  {
+    "name": "Huawei U8230",
+    "chip_name": "MSM7200A",
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+    "cpu": "528 MHz ARM 11",
+    "gpu": "Adreno 130",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8230.jpg"
+  },
+  {
+    "name": "Huawei U8100",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8100.jpg"
+  },
+  {
+    "name": "Huawei U8110",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8110.jpg"
+  },
+  {
+    "name": "Huawei U3100",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei C3200",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "128 x 128 pixels, 1:1 ratio (~123 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/Huawei-C3200.jpg"
+  },
+  {
+    "name": "Huawei IDEOS S7",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+    "cpu": "1.0 GHz Scorpion",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-s7.jpg"
+  },
+  {
+    "name": "Huawei U8300",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~154 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8300.jpg"
+  },
+  {
+    "name": "Huawei G7002",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": null,
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei G6150",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~166 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6150d.jpg"
+  },
+  {
+    "name": "Huawei U7520",
+    "chip_name": "QSC6270",
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei U8500 IDEOS X2",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+    "cpu": "528 MHz",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-u8500-new.jpg"
+  },
+  {
+    "name": "Huawei U8150 IDEOS",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": "528 MHz ARM 11",
+    "gpu": "No",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos.jpg"
+  },
+  {
+    "name": "Huawei U8510 IDEOS X3",
+    "chip_name": "Snapdragon S1",
+    "model": "U8510-0",
+    "display_resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+    "cpu": "600 MHz ARM 11",
+    "gpu": "Adreno 200",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos-x3.jpg"
+  },
+  {
+    "name": "Huawei U8800 IDEOS X5",
+    "chip_name": "MSM7230",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~246 ppi density)",
+    "cpu": "800 MHz Scorpion",
+    "gpu": "Adreno 205",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos-x5-ofic-new.jpg"
+  },
+  {
+    "name": "Huawei U9000 IDEOS X6",
+    "chip_name": "Snapdragon S2",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~228 ppi density)",
+    "cpu": "1.0 GHz Scorpion",
+    "gpu": "Adreno 205",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos-x6-new-1.jpg"
+  },
+  {
+    "name": "Huawei IDEOS S7 Slim CDMA",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei IDEOS S7 Slim",
+    "chip_name": "Snapdragon",
+    "model": null,
+    "display_resolution": "480 x 800 pixels, 5:3 ratio (~133 ppi density)",
+    "cpu": "1.0 GHz Scorpion",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos-s7-slim.jpg"
+  },
+  {
+    "name": "Huawei U5900s",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei G7010",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g7010.jpg"
+  },
+  {
+    "name": "Huawei G6608",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g6608.jpg"
+  },
+  {
+    "name": "Huawei U8180 IDEOS X1",
+    "chip_name": "Snapdragon S1",
+    "model": null,
+    "display_resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "cpu": "528 MHz ARM 11",
+    "gpu": "No",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-ideos-x1.jpg"
+  },
+  {
+    "name": "Huawei MediaPad X1",
+    "chip_name": "Kirin 910",
+    "model": "7D-501u, MediaPad X1 7.0",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~323 ppi density)",
+    "cpu": "Quad-core 1.6 GHz Cortex-A9",
+    "gpu": "Mali-450MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-x1-new.jpg"
+  },
+  {
+    "name": "Huawei Y6",
+    "chip_name": "Snapdragon 210",
+    "model": "SCC-U21, SCL-U31, SCL-L21, SCL-L01, SCL-L04, SCL-AL00, HW-SCL-L32, SCL-TL00, SCL-L03, SCL-TL00H",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A7",
+    "gpu": "Adreno 304",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-honor-4a.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T3 8.0",
+    "chip_name": "Snapdragon 425",
+    "model": "KOB-L09, KOB-W09",
+    "display_resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 308",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t3-8.jpg"
+  },
+  {
+    "name": "Huawei Y6II Compact",
+    "chip_name": "MT6735",
+    "model": "LYO-L21, LYO-L01, CAM-L21",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.3 GHz Cortex-A53",
+    "gpu": "Mali-T720MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y6-ii-compact.jpg"
+  },
+  {
+    "name": "Huawei nova 2",
+    "chip_name": "Kirin 659",
+    "model": "PIC-AL00, PIC-TL00, PIC-LX9, HWV31",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~443 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-2.jpg"
+  },
+  {
+    "name": "Huawei nova 2 plus",
+    "chip_name": "Kirin 659",
+    "model": "BAC-AL00, BAC-L03, BAC-L23, BAC-L21, BAC-L22",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-2-plus.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M3 Lite 10",
+    "chip_name": "Snapdragon 435",
+    "model": "Bach-L09, Bach-W09, BAH-L09",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m3-10-lite.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T3 10",
+    "chip_name": "Snapdragon 425",
+    "model": "AGS-W09, AGS-L09, AGS-L03",
+    "display_resolution": "800 x 1280 pixels, 16:10 ratio (~157 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 308",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t3-10.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M3 Lite 8",
+    "chip_name": "Snapdragon 435",
+    "model": "CPN-AL00, CPN-W09, CPN-L09",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~283 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m3-8-lite.jpg"
+  },
+  {
+    "name": "Huawei Y7 Prime",
+    "chip_name": "Snapdragon 435",
+    "model": "TRT-L53, TRT-L21A, TRT-AL00, SLA-TL10, TRT-TL10, SLA-AL00, TRT-AL00A",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-7-plus-new.jpg"
+  },
+  {
+    "name": "Huawei P9 lite mini",
+    "chip_name": "Snapdragon 425",
+    "model": "SLA-L02, SLA-L22, SLA-L03, SLA-L23",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 308",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y6-pro-2017-p9-lite-mini.jpg"
+  },
+  {
+    "name": "Huawei Mate 10 Lite",
+    "chip_name": "Kirin 659",
+    "model": "RNE-L21, RNE-L22, RNE-L01, RNE-L02, RNE-L11, RNE-L23, RNE-L03, RNE-AL00",
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-10-lite.jpg"
+  },
+  {
+    "name": "Huawei Watch 2 Pro",
+    "chip_name": "Snapdragon Wear 2100",
+    "model": null,
+    "display_resolution": "390 x 390 pixels (~326 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A7",
+    "gpu": "Adreno 304",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-2-pro.jpg"
+  },
+  {
+    "name": "Huawei Mate 10",
+    "chip_name": "Kirin 970",
+    "model": "ALP-L29, ALP-L09, ALP-AL00, ALP-TL00",
+    "display_resolution": "1440 x 2560 pixels, 16:9 ratio (~499 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate10-.jpg"
+  },
+  {
+    "name": "Huawei Mate 10 Pro",
+    "chip_name": "Kirin 970",
+    "model": "BLA-L29, BLA-L09, BLA-AL00, BLA-A09",
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate10-pro.jpg"
+  },
+  {
+    "name": "Huawei Mate 10 Porsche Design",
+    "chip_name": "Kirin 970",
+    "model": null,
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate10-porshe-design-.jpg"
+  },
+  {
+    "name": "Huawei nova 2s",
+    "chip_name": "Kirin 960",
+    "model": "HWI-AL00, HWI-TL00",
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-2s.jpg"
+  },
+  {
+    "name": "Huawei P smart",
+    "chip_name": "Kirin 659",
+    "model": "FIG-LX1, FIG-LA1, FIG-LX2, FIG-LX3, FIG-TL10, FIG-AL10",
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~427 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M5 8",
+    "chip_name": "Kirin 960s",
+    "model": "SHT-AL09, SHT-W09",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~359 ppi density)",
+    "cpu": "Octa-core (4x2.1 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m5-8.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M5 10",
+    "chip_name": "Kirin 960s",
+    "model": "CMR-AL09, CMR-W09",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core (4x2.1 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m5-10.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M5 10 (Pro)",
+    "chip_name": "Kirin 960",
+    "model": "CMR-AL19, CMR-W19",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m5-10.jpg"
+  },
+  {
+    "name": "Huawei Y9 (2018)",
+    "chip_name": "Kirin 659",
+    "model": "FLA-AL10, FLA-AL00, FLA-LX1, FLA-LX2, FLA-LX3, LDN-AL00, FLA-AL20, FLA-TL10",
+    "display_resolution": "1080 x 2160 pixels, 18:9 ratio (~407 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y9-2018-.jpg"
+  },
+  {
+    "name": "Huawei Y7 (2018)",
+    "chip_name": "Snapdragon 430",
+    "model": "LDN-L01, LDN-LX3",
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2018.jpg"
+  },
+  {
+    "name": "Huawei Y7 Prime (2018)",
+    "chip_name": "Snapdragon 430",
+    "model": "LDN-L21, LDN-LX2, LDN-TL10",
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2018.jpg"
+  },
+  {
+    "name": "Huawei Y7 Pro (2018)",
+    "chip_name": "Snapdragon 430",
+    "model": null,
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y7-pro-2018-.jpg"
+  },
+  {
+    "name": "Huawei P20 lite",
+    "chip_name": "Kirin 659",
+    "model": "NE-TL00, ANE-LX1, ANE-LX2, ANE-LX3, ANE-LX2J, ANE-AL00, ANE-L23, ANE-L22, ANE-L21, HWV32, ANE-TL00",
+    "display_resolution": "1080 x 2280 pixels, 19:9 ratio (~432 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p20-lite-.jpg"
+  },
+  {
+    "name": "Huawei P20",
+    "chip_name": "Kirin 970",
+    "model": "EML-L29C, EML-L09C, EML-AL00 EML-TL00, EML-L29, EML-L09, EML-AL00, EML-TL00",
+    "display_resolution": "1080 x 2240 pixels, 18.7:9 ratio (~429 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p20-.jpg"
+  },
+  {
+    "name": "Huawei P20 Pro",
+    "chip_name": "Kirin 970",
+    "model": "CLT-L29C, CLT-L29, CLT-L09C, CLT-L09, CLT-AL00, CLT-AL01, CLT-TL01, CLT-AL00L, CLT-L04, HW-01K",
+    "display_resolution": "1080 x 2240 pixels, 18.7:9 ratio (~408 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p20-pro-.jpg"
+  },
+  {
+    "name": "Huawei Mate RS Porsche Design",
+    "chip_name": "Kirin 970",
+    "model": "NEO-L29, NEO-AL00",
+    "display_resolution": "1440 x 2880 pixels, 18:9 ratio (~538 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-rs-porsche-design-1.jpg"
+  },
+  {
+    "name": "Huawei Y6 (2018)",
+    "chip_name": "Snapdragon 425",
+    "model": "ATU-L11, ATU-LX3, ATU-L21, ATU-L22",
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 308",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg"
+  },
+  {
+    "name": "Huawei Y6 Prime (2018)",
+    "chip_name": "Snapdragon 425",
+    "model": "ATU-L31, ATU-L42",
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 308",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y6-prime-2018.jpg"
+  },
+  {
+    "name": "Huawei Y3 (2018)",
+    "chip_name": "MT6737M",
+    "model": "CAG-L02, CAG-L22, CAG-L23, CAG-L03",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A53",
+    "gpu": "Mali-T720MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y3-2018.jpg"
+  },
+  {
+    "name": "Huawei Y5 Prime (2018)",
+    "chip_name": "MT6739",
+    "model": "DRA-LX2, DUA-LX2, DRA-L01, DUA-L21, DRA-L21, DRA-LX3, DRA-AL00, DRA-TL00, ATU-AL10",
+    "display_resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A53",
+    "gpu": "PowerVR GE8100",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y5-prime-2018-.jpg"
+  },
+  {
+    "name": "Huawei Watch 2 2018",
+    "chip_name": "Snapdragon Wear 2100",
+    "model": null,
+    "display_resolution": "390 x 390 pixels (~326 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A7",
+    "gpu": "Adreno 304",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-2-2018-.jpg"
+  },
+  {
+    "name": "Huawei nova 3",
+    "chip_name": "Kirin 970",
+    "model": "PAR-AL00, PAR-LX1M, PAR-LX1, PAR-LX9, PAR-TL20, PAR-TL00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G72 MP12",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova3.jpg"
+  },
+  {
+    "name": "Huawei nova 3i",
+    "chip_name": "Kirin 710",
+    "model": "INE-LX1, INE-LX1r, INE-LX1, Sydney 6353, INE-LX2r, INE-AL00, INE-TL00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-3i.jpg"
+  },
+  {
+    "name": "Huawei P Smart+ 2019",
+    "chip_name": "Kirin 710",
+    "model": "POT-LX1T",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-plus-2019-starlight-blue.jpg"
+  },
+  {
+    "name": "Huawei Mate 20 lite",
+    "chip_name": "Kirin 710",
+    "model": "SNE-AL00, SNE-LX1, SNE-LX2, SNE-LX3, INE-LX2",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-20-lite-r1.jpg"
+  },
+  {
+    "name": "Huawei Y9 (2019)",
+    "chip_name": "Kirin 710",
+    "model": "JKM-LX1, JKM-LX2, JKM-LX3, JKM-AL00, JKM-TL00, JKM-AL00a, JKM-AL00b",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
+    "cpu": "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y9-2019-.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M5 lite",
+    "chip_name": "Kirin 659",
+    "model": "BAH2-L09, BAH2-W09, BAH2-W19",
+    "display_resolution": "1920 x 1200 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m5-lite.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T5",
+    "chip_name": "Kirin 659",
+    "model": "AGS2-W09, AGS2-W19, AGS2-L09",
+    "display_resolution": "1920 x 1200 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t5.jpg"
+  },
+  {
+    "name": "Huawei Mate 20",
+    "chip_name": "Kirin 980",
+    "model": "HMA-L29, HMA-L09, HMA-LX9, HMA-AL00, HMA-TL00",
+    "display_resolution": "1080 x 2244 pixels, 18.7:9 ratio (~381 ppi density)",
+    "cpu": "Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP10",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-20-.jpg"
+  },
+  {
+    "name": "Huawei Mate S",
+    "chip_name": "Kirin 935",
+    "model": "CRR-UL00, CRR-L09, CRR-UL20",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core (4x2.2 GHz & 4x1.5 GHz)",
+    "gpu": "Mali-T628 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-s--.jpg"
+  },
+  {
+    "name": "Huawei Nexus 6P",
+    "chip_name": "Snapdragon 810",
+    "model": "H1511, H1512",
+    "display_resolution": "1440 x 2560 pixels, 16:9 ratio (~518 ppi density)",
+    "cpu": "Octa-core (4x1.55 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
+    "gpu": "Adreno 430",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nexus-6p-.jpg"
+  },
+  {
+    "name": "Huawei Y6 Pro",
+    "chip_name": "MT6735P",
+    "model": "TIT-AL00, TIT-U02, TIT-L01",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.3 GHz Cortex-A53",
+    "gpu": "Mali-T720MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-5.jpg"
+  },
+  {
+    "name": "Huawei G7 Plus",
+    "chip_name": "Snapdragon 615",
+    "model": "RIO-L01, RIO-L02, RIO-L03, RIO-UL00, RIO-TL00",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+    "gpu": "Adreno 405",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g7-plus.jpg"
+  },
+  {
+    "name": "Huawei Mate 8",
+    "chip_name": "Kirin 950",
+    "model": "NXT-AL10, NXT-CL00, NXT-DL00, NXT-TL00, NXT-L09, NXT-L29",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~368 ppi density)",
+    "cpu": "Octa-core (4x2.3 GHz Cortex-A72 & 4x1.8 GHz Cortex A53)",
+    "gpu": "Mali-T880 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-8r1.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 5s",
+    "chip_name": "MT6753T",
+    "model": "TAG-AL00, TAG-TL00, TAG-L22, TAG-L01, TAG-L13, TAG-L23",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Octa-core 1.5 GHz Cortex-A53",
+    "gpu": "Mali-T720MP3",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-5s.jpg"
+  },
+  {
+    "name": "Huawei Watch",
+    "chip_name": "Snapdragon 400",
+    "model": null,
+    "display_resolution": "400 x 400 pixels (~286 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A7",
+    "gpu": "Adreno 305",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M2 10.0",
+    "chip_name": "Kirin 930",
+    "model": "M2-A01W, M2-A01L",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex A53 & 4x1.5 GHz Cortex-A53)",
+    "gpu": "Mali-T628 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m2-10-.jpg"
+  },
+  {
+    "name": "Huawei P9",
+    "chip_name": "Kirin 955",
+    "model": "EVA-L09, EVA-L19, EVA-L29, EVA-AL10, EVA-TL00, EVA-AL00, EVA-DL00",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~423 ppi density)",
+    "cpu": "Octa-core (4x2.5 GHz Cortex-A72 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-T880 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p9r2.jpg"
+  },
+  {
+    "name": "Huawei P9 Plus",
+    "chip_name": "Kirin 955",
+    "model": "VIE-L09, VIE-L29, VIE-AL10",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core (4x2.5 GHz Cortex-A72 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-T880 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p9-plus.jpg"
+  },
+  {
+    "name": "Huawei P9 lite",
+    "chip_name": "Kirin 650",
+    "model": "VNS-L31, VNS-L21, VNS-L22, VNS-L23, VNS-L53, VNS-AL00, VNS-L62, VNS-L52, VNS-DL00, VNS-TL00",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p9-lite-r1.jpg"
+  },
+  {
+    "name": "Huawei Y5II",
+    "chip_name": "MT6735P",
+    "model": "CUN-U29, CUN-U19, CUN-U09, CUN-L21, CUN-L22, CUN-L01, CUN-L02, CUN-L03, CUN-L33, CUN-L23",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.3 GHz Cortex-A53 - 4G model",
+    "gpu": "Mali-T720MP2 - 4G model",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y5-2.jpg"
+  },
+  {
+    "name": "Huawei Y3II",
+    "chip_name": "MT6735M",
+    "model": "LUA-U22, LUA-U02, LUA-L21, LUA-L22, LUA-L01, U22, LUA-L02, LUA-L03, LUA-L23, LUA-U03, LUA-L13, LUA-U23",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)",
+    "cpu": "Quad-core 1.0 GHz Cortex-A53 - 4G model",
+    "gpu": "Mali-T720MP2 - 4G model",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y3-2.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M2 7.0",
+    "chip_name": "Snapdragon 615",
+    "model": null,
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~323 ppi density)",
+    "cpu": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+    "gpu": "Adreno 405",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m2-70.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T1 7.0 Plus",
+    "chip_name": "Spreadtrum SC7731G",
+    "model": "T1-701ua, T1-701u",
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "Quad-core 1.2 GHz Cortex-A7",
+    "gpu": null,
+    "photo_url": null
+  },
+  {
+    "name": "Huawei G9 Plus",
+    "chip_name": "Snapdragon 625",
+    "model": "MLA-UL00, MLA-TL10",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core 2.0 GHz Cortex-A53",
+    "gpu": "Adreno 506",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-g9-plus.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T2 7.0",
+    "chip_name": "Spreadtrum SC9830l",
+    "model": "BGO-DL09, BGO-L03",
+    "display_resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)",
+    "cpu": "Quad-core 1.5 GHz Cortex-A7",
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t2.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T2 7.0 Pro",
+    "chip_name": "Snapdragon 615",
+    "model": "PLE-701L, PLE-703L",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~315 ppi density)",
+    "cpu": "Octa-core (4x1.2 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+    "gpu": "Adreno 405",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t2-pro.jpg"
+  },
+  {
+    "name": "Huawei MediaPad T2 10.0 Pro",
+    "chip_name": "Snapdragon 615",
+    "model": "FDR-A01L, FDR-A03L, FDR-A04L",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~226 ppi density)",
+    "cpu": "Octa-core (4x1.2 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+    "gpu": "Adreno 405",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t2-10-pro.jpg"
+  },
+  {
+    "name": "Huawei nova",
+    "chip_name": "Snapdragon 625",
+    "model": "CAN-L01L11, CAN-L02L12, CAN-L03L13, CAN-L11, CAN-L01, CAN-L12, CAZ-AL10, CAZ-TL10, CAN-L13",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+    "cpu": "Octa-core 2.0 GHz Cortex-A53",
+    "gpu": "Adreno 506",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova.jpg"
+  },
+  {
+    "name": "Huawei nova plus",
+    "chip_name": "Snapdragon 625",
+    "model": "MLA-L01/L11, MLA-L11, MLA-L02/L12, MLA-L02, MLA-L12, MLA-L03/L13, MLA-L03, MLA-L13, MLA-AL10, MLA-L01",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+    "cpu": "Octa-core 2.0 GHz Cortex-A53",
+    "gpu": "Adreno 506",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-plus.jpg"
+  },
+  {
+    "name": "Huawei MediaPad M3 8.4",
+    "chip_name": "Kirin 950",
+    "model": "BTV-DL09, BTV-W09",
+    "display_resolution": "1600 x 2560 pixels, 16:10 ratio (~359 ppi density)",
+    "cpu": "Octa-core (4x2.3 GHz Cortex-A72 & 4x1.8 GHz Cortex A53)",
+    "gpu": "Mali-T880 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m3.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 6",
+    "chip_name": "MT6750",
+    "model": "NCE-AL00, NCE-TL00, NCE-AL10, NCE-TL10",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~293 ppi density)",
+    "cpu": "Octa-core (4x1.4 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+    "gpu": "Mali-T860MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-6.jpg"
+  },
+  {
+    "name": "Huawei Fit",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "208 x 208 pixels (~200 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-fit.jpg"
+  },
+  {
+    "name": "Huawei Mate 9",
+    "chip_name": "Kirin 960",
+    "model": "MHA-L29, MHA-L09, MHA-AL00",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~373 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-9.jpg"
+  },
+  {
+    "name": "Huawei Mate 9 Porsche Design",
+    "chip_name": "Kirin 960",
+    "model": null,
+    "display_resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-9-porshe-.jpg"
+  },
+  {
+    "name": "Huawei Mate 9 Pro",
+    "chip_name": "Kirin 960",
+    "model": "LON-L29, LON-AL00",
+    "display_resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-9-pro.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 6s",
+    "chip_name": "Snapdragon 435",
+    "model": "DIG-L01, DIG-L21HN, DIG-TL10, DIG-L03, DIG-L21, DIG-AL00, DIG-L23",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Octa-core 1.4 GHz Cortex-A53",
+    "gpu": "Adreno 505",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-6s.jpg"
+  },
+  {
+    "name": "Huawei P8 Lite (2017)",
+    "chip_name": "Kirin 655",
+    "model": "PRA-TL10, PRA-TL20, PRA-LA1, PRA-LX1, PRA-LX2, TAG-L21, PRA-AL00X, TAG-L32, PRA-LX3, PRA-AL00",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+    "cpu": "Octa-core (4x2.1 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p8-lite-2017.jpg"
+  },
+  {
+    "name": "Huawei P10 Lite",
+    "chip_name": "Kirin 658",
+    "model": "WAS-LX1, WAS-LX2, WAS-LX3, WAS-LX1A, WAS-LX2J, WAS-L03T, WAS-AL00, WAS-TL10",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+    "cpu": "Octa-core (4x2.1 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-T830 MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p10-lite.jpg"
+  },
+  {
+    "name": "Huawei P10",
+    "chip_name": "Kirin 960",
+    "model": "VTR-L29, VTR-AL00, VTR-TL00, VTR-L09",
+    "display_resolution": "1080 x 1920 pixels, 16:9 ratio (~432 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p10-.jpg"
+  },
+  {
+    "name": "Huawei P10 Plus",
+    "chip_name": "Kirin 960",
+    "model": "VKY-L29, VKY-L09, VKY-AL00",
+    "display_resolution": "1440 x 2560 pixels, 16:9 ratio (~540 ppi density)",
+    "cpu": "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+    "gpu": "Mali-G71 MP8",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p10-plus-r1.jpg"
+  },
+  {
+    "name": "Huawei Watch 2",
+    "chip_name": "Snapdragon Wear 2100",
+    "model": null,
+    "display_resolution": "390 x 390 pixels (~326 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A7",
+    "gpu": "Adreno 304",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-2-.jpg"
+  },
+  {
+    "name": "Huawei Watch 2 Classic",
+    "chip_name": "Snapdragon Wear 2100",
+    "model": null,
+    "display_resolution": "390 x 390 pixels (~326 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A7",
+    "gpu": "Adreno 304",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-2-active.jpg"
+  },
+  {
+    "name": "Huawei Y3 (2017)",
+    "chip_name": "MT6737袦",
+    "model": "CRO-L02, CRO-L22, CRO-L03, CRO-L23, CRO-U00",
+    "display_resolution": "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "cpu": "Quad-core 1.1 GHz Cortex-A53",
+    "gpu": "Mali-T720MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y3-2017-.jpg"
+  },
+  {
+    "name": "Huawei Y5 (2017)",
+    "chip_name": "MT6737T",
+    "model": "MYA-L03, MYA-L23, MYA-L02, MYA-L22, MYA-U29, MYA-L13",
+    "display_resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+    "cpu": "Quad-core 1.4 GHz Cortex-A53",
+    "gpu": "Mali-T720MP2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y5-2017.jpg"
+  }
+]

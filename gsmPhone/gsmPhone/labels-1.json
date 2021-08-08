@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Huawei P50",
+    "chip_name": "Snapdragon 888 4G",
+    "model": null,
+    "display_resolution": "1224 x 2700 pixels (~458 ppi density)",
+    "cpu": "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+    "gpu": "Adreno 660",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50.jpg"
+  },
+  {
+    "name": "Huawei P50 Pro",
+    "chip_name": "Kirin 9000",
+    "model": "JAD-AL50",
+    "display_resolution": "1228 x 2700 pixels (~450 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p50-pro.jpg"
+  },
+  {
+    "name": "Huawei Children's Watch 4X",
+    "chip_name": null,
+    "model": "NIK-AL00",
+    "display_resolution": "320 x 360 pixels (~342 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-childrens-watch-4x.jpg"
+  },
+  {
+    "name": "Huawei Enjoy Tablet 2",
+    "chip_name": "Kirin 710A",
+    "model": "AGS3-W00D",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-tablet2.jpg"
+  },
+  {
+    "name": "Huawei MatePad T 10s",
+    "chip_name": "Kirin 710A",
+    "model": "AGS3-L09, AGS3-W09",
+    "display_resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-tablet2.jpg"
+  },
+  {
+    "name": "Huawei MatePad 10.8",
+    "chip_name": "Kirin 990",
+    "model": "SCMR-W09, SCMR-AL00",
+    "display_resolution": "1600 x 2560 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP16",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-108.jpg"
+  },
+  {
+    "name": "Huawei Watch Fit",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "280 x 456 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-fit.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 5G",
+    "chip_name": "Dimensity 720 5G",
+    "model": "WKG-AN00",
+    "display_resolution": "720 x 1600 pixels, 20:9 ratio (~266 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 Plus 5G",
+    "chip_name": "Dimensity 720 5G",
+    "model": "FRL-AN00a",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~397 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20-plus.jpg"
+  },
+  {
+    "name": "Huawei Y9a",
+    "chip_name": "Helio G80",
+    "model": "FRL-22, FRL-23, FRL-L22",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~397 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "gpu": "Mali-G52 MC2",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-y9a.jpg"
+  },
+  {
+    "name": "Huawei Watch GT 2 Pro",
+    "chip_name": "Kirin A1",
+    "model": "VID-B19",
+    "display_resolution": "454 x 454 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-gt2-pro.jpg"
+  },
+  {
+    "name": "Huawei MatePad 5G",
+    "chip_name": "Kirin 820 5G",
+    "model": "BAH3-AN10",
+    "display_resolution": "1200 x 2000 pixels, 5:3 ratio (~224 ppi density)",
+    "cpu": "Octa-core (1x2.36 GHz Cortex-A76 & 3x2.22 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G57 (6-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-5g.jpg"
+  },
+  {
+    "name": "Huawei P smart 2021",
+    "chip_name": "Kirin 710A",
+    "model": "PPA-LX2",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2021.jpg"
+  },
+  {
+    "name": "Huawei Y7a",
+    "chip_name": "Kirin 710A",
+    "model": null,
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2021.jpg"
+  },
+  {
+    "name": "Huawei nova 7 SE 5G Youth",
+    "chip_name": "Dimensity 800U 5G",
+    "model": null,
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+    "cpu": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC3",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p40-lite-5g.jpg"
+  },
+  {
+    "name": "Huawei Mate 30E Pro 5G",
+    "chip_name": "Kirin 990E 5G",
+    "model": "LIO-AN00m",
+    "display_resolution": "1176 x 2400 pixels, 18.5:9 ratio (~409 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate30-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Watch GT 2 Porsche Design",
+    "chip_name": null,
+    "model": "VID-B19",
+    "display_resolution": "454 x 454 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-gt2-porshe1.jpg"
+  },
+  {
+    "name": "Huawei Mate 40",
+    "chip_name": "Kirin 9000E 5G",
+    "model": "OCE-AN10",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP22",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOH-NX9, NOH-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro+",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOP-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro-plus.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 RS Porsche Design",
+    "chip_name": "Kirin 9000 5G",
+    "model": "NOP-AN00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-rs.jpg"
+  },
+  {
+    "name": "Huawei nova 8 SE",
+    "chip_name": "Dimensity 720 5G",
+    "model": "JSC-AN00",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~403 ppi density)",
+    "cpu": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) - standard model",
+    "gpu": "Mali-G57 MC3",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-se.jpg"
+  },
+  {
+    "name": "Huawei Enjoy 20 SE",
+    "chip_name": "Kirin 710A",
+    "model": "PPA-AL20",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-20-se.jpg"
+  },
+  {
+    "name": "Huawei nova 8 5G",
+    "chip_name": "Kirin 985 5G",
+    "model": "ANG-AN00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-5g.jpg"
+  },
+  {
+    "name": "Huawei nova 8 Pro 5G",
+    "chip_name": "Kirin 985 5G",
+    "model": "BRQ-AN00",
+    "display_resolution": "1236 x 2676 pixels, 19.5:9 ratio (~439 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Mate X2",
+    "chip_name": "Kirin 9000 5G",
+    "model": "TET-AN00",
+    "display_resolution": "2200 x 2480 pixels (~413 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x2-new.jpg"
+  },
+  {
+    "name": "Huawei P40 4G",
+    "chip_name": "Kirin 990",
+    "model": "ANA-AL00",
+    "display_resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP16",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p40-4g.jpg"
+  },
+  {
+    "name": "Huawei Mate 40E",
+    "chip_name": "Kirin 990E 5G",
+    "model": "OCE-AN50",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Watch Fit Elegant",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "280 x 456 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-fit-elegant.jpg"
+  },
+  {
+    "name": "Huawei nova 8 Pro 4G",
+    "chip_name": "Kirin 985 5G",
+    "model": "BRQ-AN00",
+    "display_resolution": "1236 x 2676 pixels, 19.5:9 ratio (~439 ppi density)",
+    "cpu": "Octa-core (1x2.58 GHz Cortex-A76 & 3x2.40 GHz Cortex-A76 & 4x1.84 GHz Cortex-A55)",
+    "gpu": "Mali-G77 (8-core)",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-pro-5g.jpg"
+  },
+  {
+    "name": "Huawei Watch 3",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "466 x 466 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-3.jpg"
+  },
+  {
+    "name": "Huawei Watch 3 Pro",
+    "chip_name": null,
+    "model": null,
+    "display_resolution": "466 x 466 pixels (~326 ppi density)",
+    "cpu": null,
+    "gpu": null,
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-3-pro.jpg"
+  },
+  {
+    "name": "Huawei MatePad 11 (2021)",
+    "chip_name": "Snapdragon 865 5G",
+    "model": null,
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~276 ppi density)",
+    "cpu": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)",
+    "gpu": "Adreno 650",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-11-2021.jpg"
+  },
+  {
+    "name": "Huawei MatePad Pro 10.8 (2021)",
+    "chip_name": "Snapdragon 870 5G",
+    "model": "MRR-W29",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~280 ppi density)",
+    "cpu": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)",
+    "gpu": "Adreno 650",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-108-2021-new.jpg"
+  },
+  {
+    "name": "Huawei MatePad Pro 12.6 (2021)",
+    "chip_name": "Kirin 9000E 5G",
+    "model": "WGR-W09, WGR-W19, WGR-AN19",
+    "display_resolution": "2560 x 1600 pixels, 16:10 ratio (~240 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP22 - Wi-Fi model",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-pro-126-2021-new.jpg"
+  },
+  {
+    "name": "Huawei Mate X2 4G",
+    "chip_name": "Kirin 9000",
+    "model": "TET-AL00",
+    "display_resolution": "2200 x 2480 pixels (~414 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x2-new.jpg"
+  },
+  {
+    "name": "Huawei Mate 40E 4G",
+    "chip_name": "Kirin 990E",
+    "model": "OCE-AL50",
+    "display_resolution": "1080 x 2376 pixels (~402 ppi density)",
+    "cpu": "Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)",
+    "gpu": "Mali-G76 MP14",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-40.jpg"
+  },
+  {
+    "name": "Huawei Mate 40 Pro 4G",
+    "chip_name": "Kirin 9000",
+    "model": "NOH-AL00",
+    "display_resolution": "1344 x 2772 pixels, 18.5:9 ratio (~456 ppi density)",
+    "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55)",
+    "gpu": "Mali-G78 MP24",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate40-pro.jpg"
+  },
+  {
+    "name": "Huawei nova 8i",
+    "chip_name": "Snapdragon 662",
+    "model": null,
+    "display_resolution": "1080 x 2376 pixels (~391 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+    "gpu": "Adreno 610",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8i.jpg"
+  },
+  {
+    "name": "Huawei nova 8 SE Youth",
+    "chip_name": "Kirin 710A",
+    "model": "CHL-AL60",
+    "display_resolution": "1080 x 2400 pixels, 20:9 ratio (~399 ppi density)",
+    "cpu": "Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)",
+    "gpu": "Mali-G51 MP4",
+    "photo_url": "https://fdn2.gsmarena.com/vv/bigpic/huawei-nova-8-se-youth.jpg"
+  }
+]

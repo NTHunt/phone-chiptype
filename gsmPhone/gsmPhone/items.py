@@ -11,3 +11,7 @@ class GsmphoneItem(scrapy.Item):
     name = scrapy.Field()
     model = scrapy.Field()
     chip_name = scrapy.Field()
+    display_resolution = scrapy.Field()
+    cpu = scrapy.Field()
+    gpu = scrapy.Field()
+    photo_url = scrapy.Field()
